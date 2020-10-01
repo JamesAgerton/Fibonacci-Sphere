@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Planet Material
+  m_Shader: {fileID: -6465566751694194690, guid: 303e40f5d71462d469934db84ecf0e2a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_10B4546E:
+        m_Texture: {fileID: 2800000, guid: a146d903c710cef40977f684d103aa02, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_33F95D69:
+        m_Texture: {fileID: 2800000, guid: 0b0ec8c5279f17f4589e7147b5be465f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_7D84AEAC:
+        m_Texture: {fileID: 2800000, guid: 0531c34bc33fc8c498bd8ea97b9097d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_BA7AD923:
+        m_Texture: {fileID: 2800000, guid: 0b0ec8c5279f17f4589e7147b5be465f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Color_66861DC3: {r: 0.25, g: 0.25, b: 0.25, a: 0}
+    - Vector2_60B8C113: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_9C03663B: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_CC6EFA14: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_CE8450DA: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_DCEC163F: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
